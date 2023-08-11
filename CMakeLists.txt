@@ -24,6 +24,7 @@ set(LIB_INCLUDE_PATH
 )
 
 set(LINK_LIBS glfw glad)
+add_subdirectory(src)
 
 
 
